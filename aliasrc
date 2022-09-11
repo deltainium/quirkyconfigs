@@ -9,3 +9,9 @@ alias "purgecache"="paccache -rk1 && yaycache"
 
 # Based weather
 alias "weather"="curl wttr.in"
+
+# Spotifyd daemon fix
+alias "unfuckspotify"="systemctl --user restart spotifyd"
+
+# Alternate command for Spotify-tui so as to never get it wrong
+alias spotify-tui=spt
