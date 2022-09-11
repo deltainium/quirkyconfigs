@@ -1,0 +1,11 @@
+# bc -l but more convenient
+alias "calc"="bc -l"
+
+# Yay cache cleanup
+alias "yaycache"="sudo rm -r .cache/yay/*"
+
+# Total cache cleanup
+alias "purgecache"="paccache -rk1 && yaycache"
+
+# Based weather
+alias "weather"="curl wttr.in"
