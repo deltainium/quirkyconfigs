@@ -1,0 +1,16 @@
+#!/bin/sh
+
+random=$(($RANDOM%3))
+
+#test confirms that ¤r
+# echo $random
+
+if [ $random == 0 ]
+then
+	cmatrix
+elif [ $random == 1 ]
+then
+	asciiquarium
+else
+	cava
+fi

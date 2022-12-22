@@ -32,5 +32,8 @@ bindkey '^H' backward-kill-word
 bindkey '^[[1;5C' forward-word
 bindkey '^[[1;5D' backward-word
 
+# Screensaver tomfoolery
+alias "screensaver"="./screensaver"
+
 # Load zsh-syntax-highlighting; should be last.
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
