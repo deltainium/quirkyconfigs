@@ -17,6 +17,5 @@ alias "unfuckspotify"="systemctl --user restart spotifyd"
 alias spotify-tui=spt
 
 # Screensaver tomfoolery
-
 alias "screensaver"="./screensaver"
 
