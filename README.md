@@ -9,6 +9,6 @@ Add an install script and/or a list of dependencies necesarry for the deadbeef c
 
 # Screensaver
 Dependency list for screensaver to work:
-- [cmatrix] (https://github.com/abishekvashok/cmatrix)
-- [asciiquarium] (https://github.com/cmatsuoka/asciiquarium)
-- [cava] (https://github.com/karlstav/cava)
+- [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
+- [cava](https://github.com/karlstav/cava)
